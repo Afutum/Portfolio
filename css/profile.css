@@ -1,0 +1,41 @@
+@import url(sanitize.css);
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+.content-outer {
+    display: flex;
+}
+
+.content-inner-text {
+    display: flex;
+    flex-flow: column;
+    margin-bottom: auto;
+    justify-content: space-around;
+}
+
+.content-inner-text h2 {
+    font-size: 20px;
+}
+
+.content-text {
+    font-size: 15px;
+    width: 40%;
+}
+
+.content-inner-img {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+.me-img {
+    border-radius: 50%;
+    height: 150px;
+    width: 130px;
+}
+
+.icon {
+    border-radius: 50%;
+    height: 150px;
+    width: 130px;
+}

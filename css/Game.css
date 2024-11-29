@@ -1,0 +1,48 @@
+﻿body
+{
+    border: 1px solid;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 50px;
+    margin: 20px 80px 5px;
+}
+
+.flex_A-Box {
+    display: flex;
+}
+
+.flex_B-Box {
+    display: flex;
+}
+
+.flex_C-Box {
+    display: flex;
+}
+
+.flex_Texts {
+    flex-flow: column;
+}
+
+.title {
+    margin: auto auto auto 60px;
+}
+
+.card-title {
+    font-size: 45px;
+    margin: auto auto auto 65px;
+}
+
+.card-text {
+    font-size: 30px;
+    margin: auto auto auto 75px;
+}
+
+.href-top{
+    text-align:center;
+}
